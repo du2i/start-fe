@@ -31,3 +31,4 @@ function sum(x,y,x){
 const words = ['a', 'b'];
 const newWords = [...words];
 console.log(newWords);
+
